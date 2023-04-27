@@ -1,0 +1,11 @@
+D:\Joel\change image\change image\bin\Debug\change image.exe.config
+D:\Joel\change image\change image\bin\Debug\change image.exe
+D:\Joel\change image\change image\bin\Debug\change image.pdb
+D:\Joel\change image\change image\bin\Debug\change image.xml
+D:\Joel\change image\change image\obj\Debug\change image.vbprojResolveAssemblyReference.cache
+D:\Joel\change image\change image\obj\Debug\change_image.Form1.resources
+D:\Joel\change image\change image\obj\Debug\change_image.Resources.resources
+D:\Joel\change image\change image\obj\Debug\change image.vbproj.GenerateResource.Cache
+D:\Joel\change image\change image\obj\Debug\change image.exe
+D:\Joel\change image\change image\obj\Debug\change image.xml
+D:\Joel\change image\change image\obj\Debug\change image.pdb

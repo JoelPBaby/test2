@@ -1,0 +1,10 @@
+D:\Joel\Ask user prblm\Ask user prblm\bin\Debug\Ask user prblm.exe.config
+D:\Joel\Ask user prblm\Ask user prblm\bin\Debug\Ask user prblm.exe
+D:\Joel\Ask user prblm\Ask user prblm\bin\Debug\Ask user prblm.pdb
+D:\Joel\Ask user prblm\Ask user prblm\bin\Debug\Ask user prblm.xml
+D:\Joel\Ask user prblm\Ask user prblm\obj\Debug\Ask user prblm.vbprojResolveAssemblyReference.cache
+D:\Joel\Ask user prblm\Ask user prblm\obj\Debug\Ask_user_prblm.Resources.resources
+D:\Joel\Ask user prblm\Ask user prblm\obj\Debug\Ask user prblm.vbproj.GenerateResource.Cache
+D:\Joel\Ask user prblm\Ask user prblm\obj\Debug\Ask user prblm.exe
+D:\Joel\Ask user prblm\Ask user prblm\obj\Debug\Ask user prblm.xml
+D:\Joel\Ask user prblm\Ask user prblm\obj\Debug\Ask user prblm.pdb

@@ -1,0 +1,17 @@
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net6.0-windows\WinFormsApp18.exe
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net6.0-windows\WinFormsApp18.deps.json
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net6.0-windows\WinFormsApp18.runtimeconfig.json
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net6.0-windows\WinFormsApp18.dll
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net6.0-windows\WinFormsApp18.pdb
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.vbproj.AssemblyReference.cache
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.Form1.resources
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.vbproj.GenerateResource.cache
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.AssemblyInfoInputs.cache
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.AssemblyInfo.vb
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.vbproj.CoreCompileInputs.cache
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.dll
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\refint\WinFormsApp18.dll
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.pdb
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\WinFormsApp18.genruntimeconfig.cache
+C:\Users\Mail2\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net6.0-windows\ref\WinFormsApp18.dll

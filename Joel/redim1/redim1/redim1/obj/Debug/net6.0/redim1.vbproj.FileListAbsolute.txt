@@ -1,0 +1,15 @@
+C:\Users\Mail2\source\repos\redim1\redim1\bin\Debug\net6.0\redim1.exe
+C:\Users\Mail2\source\repos\redim1\redim1\bin\Debug\net6.0\redim1.deps.json
+C:\Users\Mail2\source\repos\redim1\redim1\bin\Debug\net6.0\redim1.runtimeconfig.json
+C:\Users\Mail2\source\repos\redim1\redim1\bin\Debug\net6.0\redim1.dll
+C:\Users\Mail2\source\repos\redim1\redim1\bin\Debug\net6.0\redim1.pdb
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.vbproj.AssemblyReference.cache
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.AssemblyInfoInputs.cache
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.AssemblyInfo.vb
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.vbproj.CoreCompileInputs.cache
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.dll
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\refint\redim1.dll
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.pdb
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\redim1.genruntimeconfig.cache
+C:\Users\Mail2\source\repos\redim1\redim1\obj\Debug\net6.0\ref\redim1.dll

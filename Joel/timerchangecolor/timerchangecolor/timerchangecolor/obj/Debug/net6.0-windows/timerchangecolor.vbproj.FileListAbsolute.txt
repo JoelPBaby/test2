@@ -1,0 +1,17 @@
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\bin\Debug\net6.0-windows\timerchangecolor.exe
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\bin\Debug\net6.0-windows\timerchangecolor.deps.json
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\bin\Debug\net6.0-windows\timerchangecolor.runtimeconfig.json
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\bin\Debug\net6.0-windows\timerchangecolor.dll
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\bin\Debug\net6.0-windows\timerchangecolor.pdb
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.vbproj.AssemblyReference.cache
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.Form1.resources
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.vbproj.GenerateResource.cache
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.AssemblyInfoInputs.cache
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.AssemblyInfo.vb
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.vbproj.CoreCompileInputs.cache
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.dll
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\refint\timerchangecolor.dll
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.pdb
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\timerchangecolor.genruntimeconfig.cache
+C:\Users\Mail2\source\repos\timerchangecolor\timerchangecolor\obj\Debug\net6.0-windows\ref\timerchangecolor.dll

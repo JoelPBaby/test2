@@ -1,0 +1,17 @@
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.vbproj.AssemblyReference.cache
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.Form1.resources
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.vbproj.GenerateResource.cache
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.AssemblyInfoInputs.cache
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.AssemblyInfo.vb
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.vbproj.CoreCompileInputs.cache
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\bin\Debug\net6.0-windows\backgroundchangecolor.exe
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\bin\Debug\net6.0-windows\backgroundchangecolor.deps.json
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\bin\Debug\net6.0-windows\backgroundchangecolor.runtimeconfig.json
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\bin\Debug\net6.0-windows\backgroundchangecolor.dll
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\bin\Debug\net6.0-windows\backgroundchangecolor.pdb
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.dll
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\refint\backgroundchangecolor.dll
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.pdb
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\backgroundchangecolor.genruntimeconfig.cache
+C:\Users\Mail2\source\repos\backgroundchangecolor\backgroundchangecolor\obj\Debug\net6.0-windows\ref\backgroundchangecolor.dll

@@ -1,0 +1,17 @@
+C:\Users\Mail2\source\repos\changeimage\changeimage\bin\Debug\net6.0-windows\changeimage.exe
+C:\Users\Mail2\source\repos\changeimage\changeimage\bin\Debug\net6.0-windows\changeimage.deps.json
+C:\Users\Mail2\source\repos\changeimage\changeimage\bin\Debug\net6.0-windows\changeimage.runtimeconfig.json
+C:\Users\Mail2\source\repos\changeimage\changeimage\bin\Debug\net6.0-windows\changeimage.dll
+C:\Users\Mail2\source\repos\changeimage\changeimage\bin\Debug\net6.0-windows\changeimage.pdb
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.vbproj.AssemblyReference.cache
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.Form1.resources
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.vbproj.GenerateResource.cache
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.AssemblyInfoInputs.cache
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.AssemblyInfo.vb
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.vbproj.CoreCompileInputs.cache
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.dll
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\refint\changeimage.dll
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.pdb
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\changeimage.genruntimeconfig.cache
+C:\Users\Mail2\source\repos\changeimage\changeimage\obj\Debug\net6.0-windows\ref\changeimage.dll

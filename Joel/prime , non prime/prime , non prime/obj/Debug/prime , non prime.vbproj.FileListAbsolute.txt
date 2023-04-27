@@ -1,0 +1,10 @@
+D:\Joel\prime , non prime\prime , non prime\bin\Debug\prime , non prime.exe.config
+D:\Joel\prime , non prime\prime , non prime\bin\Debug\prime , non prime.exe
+D:\Joel\prime , non prime\prime , non prime\bin\Debug\prime , non prime.pdb
+D:\Joel\prime , non prime\prime , non prime\bin\Debug\prime , non prime.xml
+D:\Joel\prime , non prime\prime , non prime\obj\Debug\prime , non prime.vbprojResolveAssemblyReference.cache
+D:\Joel\prime , non prime\prime , non prime\obj\Debug\prime___non_prime.Resources.resources
+D:\Joel\prime , non prime\prime , non prime\obj\Debug\prime , non prime.vbproj.GenerateResource.Cache
+D:\Joel\prime , non prime\prime , non prime\obj\Debug\prime , non prime.exe
+D:\Joel\prime , non prime\prime , non prime\obj\Debug\prime , non prime.xml
+D:\Joel\prime , non prime\prime , non prime\obj\Debug\prime , non prime.pdb

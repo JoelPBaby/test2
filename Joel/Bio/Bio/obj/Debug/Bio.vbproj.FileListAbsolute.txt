@@ -1,0 +1,12 @@
+D:\Joel\Bio\Bio\bin\Debug\Bio.exe.config
+D:\Joel\Bio\Bio\bin\Debug\Bio.exe
+D:\Joel\Bio\Bio\bin\Debug\Bio.pdb
+D:\Joel\Bio\Bio\bin\Debug\Bio.xml
+D:\Joel\Bio\Bio\obj\Debug\Bio.vbprojResolveAssemblyReference.cache
+D:\Joel\Bio\Bio\obj\Debug\Bio.Form1.resources
+D:\Joel\Bio\Bio\obj\Debug\Bio.Resources.resources
+D:\Joel\Bio\Bio\obj\Debug\Bio.vbproj.GenerateResource.Cache
+D:\Joel\Bio\Bio\obj\Debug\Bio.exe
+D:\Joel\Bio\Bio\obj\Debug\Bio.xml
+D:\Joel\Bio\Bio\obj\Debug\Bio.pdb
+D:\Joel\Bio\Bio\obj\Debug\Bio.l6.resources

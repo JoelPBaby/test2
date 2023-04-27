@@ -1,0 +1,11 @@
+D:\Joel\temperature\temperature\bin\Debug\temperature.exe.config
+D:\Joel\temperature\temperature\bin\Debug\temperature.exe
+D:\Joel\temperature\temperature\bin\Debug\temperature.pdb
+D:\Joel\temperature\temperature\bin\Debug\temperature.xml
+D:\Joel\temperature\temperature\obj\Debug\temperature.vbprojResolveAssemblyReference.cache
+D:\Joel\temperature\temperature\obj\Debug\temperature.Form1.resources
+D:\Joel\temperature\temperature\obj\Debug\temperature.Resources.resources
+D:\Joel\temperature\temperature\obj\Debug\temperature.vbproj.GenerateResource.Cache
+D:\Joel\temperature\temperature\obj\Debug\temperature.exe
+D:\Joel\temperature\temperature\obj\Debug\temperature.xml
+D:\Joel\temperature\temperature\obj\Debug\temperature.pdb

@@ -1,0 +1,12 @@
+D:\Joel\MDI\MDI\bin\Debug\MDI.exe.config
+D:\Joel\MDI\MDI\bin\Debug\MDI.exe
+D:\Joel\MDI\MDI\bin\Debug\MDI.pdb
+D:\Joel\MDI\MDI\bin\Debug\MDI.xml
+D:\Joel\MDI\MDI\obj\Debug\MDI.vbprojResolveAssemblyReference.cache
+D:\Joel\MDI\MDI\obj\Debug\MDI.Form1.resources
+D:\Joel\MDI\MDI\obj\Debug\MDI.Form2.resources
+D:\Joel\MDI\MDI\obj\Debug\MDI.Resources.resources
+D:\Joel\MDI\MDI\obj\Debug\MDI.vbproj.GenerateResource.Cache
+D:\Joel\MDI\MDI\obj\Debug\MDI.exe
+D:\Joel\MDI\MDI\obj\Debug\MDI.xml
+D:\Joel\MDI\MDI\obj\Debug\MDI.pdb

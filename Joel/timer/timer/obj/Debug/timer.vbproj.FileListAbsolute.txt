@@ -1,0 +1,13 @@
+D:\Joel\timer\timer\bin\Debug\timer.exe.config
+D:\Joel\timer\timer\bin\Debug\timer.exe
+D:\Joel\timer\timer\bin\Debug\timer.pdb
+D:\Joel\timer\timer\bin\Debug\timer.xml
+D:\Joel\timer\timer\obj\Debug\timer.vbprojResolveAssemblyReference.cache
+D:\Joel\timer\timer\obj\Debug\timer.Form1.resources
+D:\Joel\timer\timer\obj\Debug\timer.Form2.resources
+D:\Joel\timer\timer\obj\Debug\timer.Resources.resources
+D:\Joel\timer\timer\obj\Debug\timer.vbproj.GenerateResource.Cache
+D:\Joel\timer\timer\obj\Debug\timer.exe
+D:\Joel\timer\timer\obj\Debug\timer.xml
+D:\Joel\timer\timer\obj\Debug\timer.pdb
+D:\Joel\timer\timer\obj\Debug\timer.Form3.resources

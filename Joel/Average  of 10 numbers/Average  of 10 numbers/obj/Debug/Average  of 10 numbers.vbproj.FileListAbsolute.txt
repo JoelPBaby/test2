@@ -1,0 +1,9 @@
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\bin\Debug\Average  of 10 numbers.exe.config
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\bin\Debug\Average  of 10 numbers.exe
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\bin\Debug\Average  of 10 numbers.pdb
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\bin\Debug\Average  of 10 numbers.xml
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\obj\Debug\Average__of_10_numbers.Resources.resources
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\obj\Debug\Average  of 10 numbers.vbproj.GenerateResource.Cache
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\obj\Debug\Average  of 10 numbers.exe
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\obj\Debug\Average  of 10 numbers.xml
+D:\Joel\Average  of 10 numbers\Average  of 10 numbers\obj\Debug\Average  of 10 numbers.pdb

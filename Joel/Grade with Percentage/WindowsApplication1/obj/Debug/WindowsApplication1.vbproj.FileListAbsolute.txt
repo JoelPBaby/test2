@@ -1,0 +1,15 @@
+D:\Joel\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Joel\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Joel\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Joel\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Joel\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Joel\Grade with Percentage\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Joel\Grade with Percentage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Joel\Grade with Percentage\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Joel\Grade with Percentage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
